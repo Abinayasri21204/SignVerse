@@ -1,7 +1,3 @@
-# SignVerse
-
-![SignVerse Logo](https://via.placeholder.com/150?text=SignVerse+Logo) <!-- Replace with actual logo URL if available -->
-
 **SignVerse** is an innovative web application designed to enhance communication for the deaf and hard-of-hearing community by leveraging American Sign Language (ASL). It integrates real-time sign language recognition, a responsive chatbot, and avatar-based sign video generation to provide a seamless and accessible user experience. The app supports multiple input methods (voice, text, and video) and outputs responses as text, avatar videos, or chatbot interactions, making communication inclusive and intuitive.
 
 ## Table of Contents
@@ -26,11 +22,6 @@
 - **Responsive UI**: Built with React and Material-UI, featuring a clean interface with pages for Avatar, Voice, and Text interactions.
 - **Accessibility Focus**: Designed to meet digital accessibility standards for the deaf and hard-of-hearing community.
 
-## Demo
-<!-- Replace with actual demo link or GIF -->
-Check out a live demo of SignVerse [here](https://example.com/demo) or watch the video below:
-
-![SignVerse Demo](https://via.placeholder.com/600x300?text=SignVerse+Demo) <!-- Replace with actual demo GIF or video -->
 
 ## Technologies
 - **Frontend**:
