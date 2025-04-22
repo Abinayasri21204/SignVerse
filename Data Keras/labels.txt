@@ -1,0 +1,20 @@
+0 Again
+1 Backspace
+2 Boring
+3 Boy
+4 Deaf
+5 Doubt
+6 Girl
+7 Have
+8 Hello
+9 How
+10 I
+11 I Love You
+12 Sad
+13 Thanks
+14 You
+15 Yes
+16 No
+17 Help
+18 More
+19 Need
